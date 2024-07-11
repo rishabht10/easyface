@@ -1,0 +1,61 @@
+button{
+    margin-top: 17px;
+    width: 177px;
+    
+}
+
+.easy{
+    font-size: 67px;
+}
+
+.form{
+    margin: 37px;
+    /* border: 2.7px solid red; */
+    box-shadow: 2.7px 2.7px 17px rgb(135, 135, 135);
+    border-radius: 7px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* height: 370px; */
+    justify-content: space-around;
+    width: fit-content;
+    padding: 67px;
+    backdrop-filter: blur(7px);
+    background-color: white;
+    /* color: white; */
+
+
+}
+
+.home-page{
+    padding: 37px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: space-evenly; */
+    /* border: 2.7px solid red; */
+    height: 100vh;
+    /* background: url("https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"); */
+    background: url("https://images.unsplash.com/photo-1523240795612-9a054b0db644?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-position-y: -67px;
+}
+
+.adtext{
+    margin-top: 117px;
+    text-align: right;
+    color: white;
+    backdrop-filter: blur(7px);
+    background-color: white;
+    color: black;
+    padding: 37px;
+    border-radius: 7px;
+    margin-right: -377px;
+   
+}
+
+.adtext h1{
+    font-size: 67px;
+}
+
+
+
